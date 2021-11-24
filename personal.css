@@ -1,0 +1,99 @@
+body
+{
+	background-color: #AFEEEE;
+}
+#line1
+{
+	color: cyan;
+}
+#line2
+{
+	color: cyan;
+}
+#line3
+{
+	color: cyan;
+}
+#person
+{
+	color: #4169E1;
+	font-size: 40pt;
+	text-align: center;
+}
+#game
+{
+	font-size: 16pt;
+}
+#main-id
+{
+	color: blue;
+	font-size: 45pt;
+	font-family:"Lucida Console", monospace;
+}
+#main-contact
+{
+	color: blue;
+	text-align: center;
+	font-size: 45pt;
+	font-family:"Lucida Console", monospace;
+}
+.ceo
+{
+	text-align: center;
+}
+.educ
+{
+	font-family:"Lucida Console", monospace;
+	font-size: 20pt;
+	background-color: skyblue; 
+}
+.exp
+{
+	font-family:"Lucida Console", monospace;
+	font-size: 20pt;
+	background-color: skyblue; 
+}
+.skills
+{
+	font-family:"Lucida Console", monospace;
+	font-size: 20pt;
+	background-color: skyblue; 
+}
+.work
+{
+	background-color: #87CEFA;
+}
+.tab-skills
+{
+	background-color: #87CEFA;	
+}
+.game
+{
+	font-size: 20pt;
+}
+.center-list
+{
+	font: normal 14pt Arial, sans-serif; 
+}
+.lol
+{
+	color: blue;
+}
+.hobbies
+{
+	background-color:  #87CEFA;
+	font-size: 25p;
+	width: 200px;
+}
+.name
+{
+  color: #4169E1;
+}
+.email
+{
+  color: #4169E1;
+}
+.message
+{
+  color: #4169E1;
+}
